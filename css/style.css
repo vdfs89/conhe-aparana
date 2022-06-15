@@ -230,7 +230,10 @@ main {
 .content_vídeo {
     text-align: center;
     margin: 2%;
-    width: 100%;
+}
+
+iframe {
+    width: 560px;
     height: 315px;
 }
 
